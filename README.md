@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Log Analyzer SOC – Ferramenta de detecção de brute force com Python
 
 Este projeto foi desenvolvido como parte do meu aprendizado e prática na área de **Cibersegurança**, simulando o comportamento de uma **ferramenta SOC básica** para detectar **tentativas de força bruta** por meio da análise de logs SSH.
@@ -50,3 +51,20 @@ python main.py
 2 - Ver IPs suspeitos detectados
 3 - Limpar tela
 0 - Sair
+=======
+# 🔍 Analisador de Logs com Detecção de Brute Force 
+
+Este projeto simula a leitura e análise de um log de autenticação (`auth.log`) para detectar tentativas de login suspeitas (como brute force) a partir de múltiplas falhas consecutivas de senha. Ele conta as tentativas por IP e exporta os que ultrapassam o limite para um arquivo `.txt`.
+
+
+---
+
+## ▶️ Como usar
+
+1. Tenha o Python 3 instalado.
+2. Adicione entradas simuladas no arquivo `auth.log` (exemplo incluso).
+3. Rode o script no terminal:
+
+```bash
+python log_parser.py
+>>>>>>> d829b555ca599f078f1bd86ef8b4bed0dbbbabb7
