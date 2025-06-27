@@ -1,8 +1,7 @@
-# 🔍 Analisador de Logs com Detecção de Brute Force – Projeto SOC Júnior
+# 🔍 Analisador de Logs com Detecção de Brute Force 
 
 Este projeto simula a leitura e análise de um log de autenticação (`auth.log`) para detectar tentativas de login suspeitas (como brute force) a partir de múltiplas falhas consecutivas de senha. Ele conta as tentativas por IP e exporta os que ultrapassam o limite para um arquivo `.txt`.
 
-✅ Ideal para quem está iniciando na área de **cibersegurança**, **monitoramento de logs** e **lógica de correlação usada em SOCs (Security Operations Center)**.
 
 ---
 
