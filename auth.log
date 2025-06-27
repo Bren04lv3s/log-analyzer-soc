@@ -1,0 +1,14 @@
+Jul 5 10:15:14 servidor sshd[1234]: Failed password for root from 192.168.1.10 port 50432 ssh2
+Jul 5 10:15:17 servidor sshd[1235]: Failed password for admin from 192.168.1.10 port 50433 ssh2
+Jul 5 10:15:19 servidor sshd[1236]: Failed password for guest from 192.168.1.10 port 50434 ssh2Jul 5 10:15:14 servidor sshd[1234]: Failed password for root from 192.168.1.10 port 50432 ssh2
+Jul 5 10:15:16 servidor sshd[1235]: Accepted password for breno from 10.0.0.8 port 50433 ssh2
+Jul 5 10:15:19 servidor sshd[1236]: Failed password for guest from 192.168.1.10 port 50434 ssh2
+Jul 5 10:15:22 servidor sshd[1237]: Failed password for admin from 192.168.1.10 port 50435 ssh2
+Jul 5 10:15:29 servidor sshd[1238]: Failed password for admin from 203.0.113.15 port 50436 ssh2
+Jul 5 10:15:31 servidor sshd[1239]: Failed password for user from 192.168.1.10 port 50437 ssh2
+Jul 5 10:15:35 servidor sshd[1240]: Accepted password for suporte from 10.0.0.2 port 50438 ssh2
+Jul 5 10:15:39 servidor sshd[1241]: Failed password for root from 198.51.100.50 port 50439 ssh2
+Jul 5 10:15:42 servidor sshd[1242]: Failed password for root from 198.51.100.50 port 50440 ssh2
+Jul 5 10:15:44 servidor sshd[1243]: Failed password for root from 198.51.100.50 port 50441 ssh2
+Jul 5 10:15:47 servidor sshd[1244]: Failed password for root from 198.51.100.50 port 50442 ssh2
+Jul 5 10:15:50 servidor sshd[1245]: Accepted password for admin from 192.0.2.9 port 50443 ssh2
