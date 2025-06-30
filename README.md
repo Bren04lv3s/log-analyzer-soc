@@ -67,4 +67,4 @@ Este projeto simula a leitura e análise de um log de autenticação (`auth.log`
 
 ```bash
 python log_parser.py
->>>>>>> d829b555ca599f078f1bd86ef8b4bed0dbbbabb7
+
