@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔐 Log Analyzer SOC – Ferramenta de detecção de brute force com Python
 
 Este projeto foi desenvolvido como parte do meu aprendizado e prática na área de **Cibersegurança**, simulando o comportamento de uma **ferramenta SOC básica** para detectar **tentativas de força bruta** por meio da análise de logs SSH.
